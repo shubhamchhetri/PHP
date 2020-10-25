@@ -1,9 +1,9 @@
 # PHP
 PHP is the most popular server-side language used to build dynamic websites.
-The stateless web (HTML, CSS and JavaScript) can only do so much without a dynamic language such as PHP to add the ability to interact with the web server.
-In this i have learn how to make your pages dynamic based upon user interaction, interacting with HTML forms and store and retrieve information from local data sources which include a database.
+The stateless web (HTML, CSS, and JavaScript) can only do so much without a dynamic language such as PHP to add the ability to interact with the webserver.
+In this, I have learned how to make your pages dynamic based upon user interaction, interacting with HTML forms, and store and retrieve information from local data sources which include a database.
 
-Below are the topic which i learn:
+Below is the topic which I learn:
 * Understand how server-side programming works on the web.
 * PHP Basic syntax for variable types and calculations.
 * Creating conditional structures
